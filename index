@@ -19,4 +19,11 @@ In a pdf file, include the screenshot of the following:
 2. page showing the commits in YOUR forked repository
 3. page showing you did a pull request to the main repo
 
-<p><a href="https://202301158.github.io/BSIT-4-5-ONLINE-ACTIVITY-2/202301158.html">CRISTINE MAE DE VELA</a></p>
+<!DOCTYPE html>
+<html>
+<body>
+    <p>
+        <a href="202301158.html">YOUR NAME</a>
+    </p>
+</body>
+</html>
